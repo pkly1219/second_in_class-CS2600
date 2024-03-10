@@ -21,6 +21,7 @@ PtrToEmployee searchEmployeeByPhone(const Employee table[], int sizeTable, char 
  
 
 PtrToEmployee searchEmployeeBySalary(const Employee table[], int sizeTable, double salaryToFind); 
+ 
 
 //defined in employeeTable.c 
 
