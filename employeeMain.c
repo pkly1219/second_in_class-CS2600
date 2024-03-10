@@ -72,6 +72,7 @@ printf("Employee has salary 7.80 is in record %d\n", matchPtr - EmployeeTable);
 else
 printf("Employee has salary 7.80 is NOT found in the record\n");
 
+ 
 //Example not found search by salary
 matchPtr = searchEmployeeBySalary(EmployeeTable, EmployeeTableEntries, 9.20);
 if (matchPtr != NULL) 
