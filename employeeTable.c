@@ -12,6 +12,7 @@ Employee EmployeeTable[] =
 {4011, "Tony Bobcat", "909-555-1235", 6.34},
 
 {5045, "Brian Height", "714-555-2749", 8.32} 
+
 }; 
 
 const int EmployeeTableEntries = sizeof(EmployeeTable)/sizeof(EmployeeTable[0]); 
