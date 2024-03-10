@@ -13,6 +13,7 @@ int main(void){
 
 PtrToEmployee searchEmployeeByNumber(const Employee table[], int sizeTable, long numberToFind); 
 
+ 
 PtrToEmployee searchEmployeeByName(const Employee table[], int sizeTable, char * nameToFind); 
 
 PtrToEmployee searchEmployeeByPhone(const Employee table[], int sizeTable, char * phoneToFind); 
