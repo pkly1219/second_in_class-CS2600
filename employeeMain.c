@@ -18,6 +18,7 @@ PtrToEmployee searchEmployeeByName(const Employee table[], int sizeTable, char *
 
  
 PtrToEmployee searchEmployeeByPhone(const Employee table[], int sizeTable, char * phoneToFind); 
+ 
 
 PtrToEmployee searchEmployeeBySalary(const Employee table[], int sizeTable, double salaryToFind); 
 
